@@ -13,7 +13,6 @@ decr--;
 console.log(incr);
 console.log(decr);
 
-
 console.log(5%3);
 
 console.log(2 + 2 * 2 !== '6');
